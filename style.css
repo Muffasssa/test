@@ -1,0 +1,26 @@
+*{
+margin: 0;
+padding: 0;
+
+}
+header{
+  background-image: url(pic1.jpg);
+  height: 100vh;
+  background-size: cover;
+}
+ .a {
+   float: right;
+   font-size: 15px;
+   list-style: none;
+   margin-top: 40px
+
+ }
+.a li{
+  display: inline-block;
+}
+.a li {
+color: white;
+text-decoration: none;
+padding: 5px 20px
+
+}
